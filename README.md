@@ -2,7 +2,7 @@
 
 ## Empirical Studies and Benchmarks:
 
-* [[PDF](http://lujie.ac.cn/files/papers/GoBench.pdf)]
+* GoBench: [[PDF](http://lujie.ac.cn/files/papers/GoBench.pdf)]
   [[Video](https://www.youtube.com/watch?v=xmmR9jX8jJ4)]
   [[GitHub](https://github.com/goodmorning-coder/gobench)]
 
